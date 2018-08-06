@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Install brinkOS
+GenericName=System Installer
+Keywords=calamares;system;installer
+TryExec=calamares
+Exec=/usr/bin/brinkOS-Installer
+Comment=Calamares — System Installer
+Icon=/usr/share/brinkOS/icons/logo.svg
+Terminal=false
+StartupNotify=true
+Categories=Qt;System;
